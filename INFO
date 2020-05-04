@@ -6,4 +6,4 @@ fab_date: 2018-01
 image_path: Adapter-RJ45-SignalHead-Graphic.png
 status: released
 release: yes
-tags: [eagle, SPCoast]
+tags: [eagle, SPCoast, Adapter]
