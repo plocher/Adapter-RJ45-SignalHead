@@ -87,10 +87,12 @@
 <text x="0.889" y="26.797" size="1.4224" layer="21">Signal Head Breakout</text>
 <text x="14.859" y="37.338" size="1.016" layer="21">OSHW</text>
 <text x="1.27" y="29.718" size="1.016" layer="21">v3.2</text>
-<text x="28.465" y="29.762" size="0.8128" layer="22" rot="MR0">Made in the PCR, Coast Division, NMRA</text>
-<text x="22.875" y="36.789" size="1.9304" layer="22" font="vector" ratio="20" rot="MR0">Breakout</text>
-<text x="11.3225" y="33.9544" size="0.6096" layer="22" font="vector" ratio="15" rot="MR0">www. SPCoast .com</text>
-<text x="26.0012" y="1.2561" size="1.016" layer="22" font="vector" rot="MR0">Model Railroading is fun!</text>
+<text x="29.735" y="1.187" size="0.8128" layer="22" rot="MR0">Made in the PCR, Coast Division, NMRA</text>
+<text x="22.875" y="36.154" size="1.9304" layer="22" font="vector" ratio="20" rot="MR0">Breakout</text>
+<text x="10.6875" y="33.3194" size="0.6096" layer="22" font="vector" ratio="15" rot="MR0">www. SPCoast .com</text>
+<text x="31.0812" y="30.4661" size="1.016" layer="22" font="vector" rot="MR0">Model
+Railroading
+is fun!</text>
 <hole x="3.556" y="42.545" drill="3.2"/>
 <hole x="29.591" y="42.545" drill="3.2"/>
 <text x="25.796" y="42.885" size="2.1844" layer="22" font="vector" ratio="20" rot="MR0">Signal Head</text>
@@ -114,7 +116,7 @@
 <text x="23.495" y="0.635" size="0.8128" layer="21" font="vector" rot="R90">Green</text>
 <wire x1="1.27" y1="26.67" x2="31.75" y2="26.67" width="1.9304" layer="22"/>
 <wire x1="1.27" y1="12.7" x2="31.75" y2="12.7" width="1.9304" layer="22"/>
-<text x="25.29" y="19.602" size="0.8128" layer="22" rot="MR0">Cut traces is using resistors</text>
+<text x="31.64" y="19.602" size="1.27" layer="22" rot="MR0">Cut traces if using resistors</text>
 <wire x1="3.81" y1="16.51" x2="3.81" y2="11.43" width="2.54" layer="22"/>
 <wire x1="3.81" y1="27.94" x2="3.81" y2="22.86" width="2.54" layer="22"/>
 <wire x1="11.43" y1="27.94" x2="11.43" y2="22.86" width="2.54" layer="22"/>
@@ -147,18 +149,15 @@
 <text x="29.845" y="39.37" size="0.8128" layer="21" font="vector" ratio="10">Com</text>
 <text x="30.48" y="23.495" size="0.8128" layer="21" font="vector" ratio="10">RYG</text>
 <text x="30.48" y="29.845" size="0.8128" layer="21" font="vector" ratio="10">R</text>
+<wire x1="28.575" y1="38.735" x2="29.845" y2="38.735" width="0.254" layer="21"/>
 <text x="24.13" y="12.065" size="0.8128" layer="125" font="vector" ratio="11">CON1</text>
 <text x="4.445" y="12.065" size="0.889" layer="125" font="vector" ratio="11">CON2</text>
-<text x="1.1938" y="8.8138" size="1.27" layer="125" font="vector" ratio="10">CON3</text>
-<text x="20.2438" y="8.8138" size="1.27" layer="125" font="vector" ratio="10">CON4</text>
-<text x="24.13" y="48.26" size="1.778" layer="125" font="vector" rot="R180">J1</text>
 <text x="10.16" y="16.51" size="0.4064" layer="125" font="vector" rot="R90">R1</text>
 <text x="6.35" y="16.51" size="0.4064" layer="125" font="vector" rot="R90">R2</text>
 <text x="2.54" y="16.51" size="0.4064" layer="125" font="vector" rot="R90">R3</text>
 <text x="25.4" y="16.51" size="0.4064" layer="125" font="vector" rot="R90">R4</text>
 <text x="21.59" y="16.51" size="0.4064" layer="125" font="vector" rot="R90">R5</text>
 <text x="17.78" y="16.51" size="0.4064" layer="125" font="vector" rot="R90">R6</text>
-<wire x1="28.575" y1="38.735" x2="29.845" y2="38.735" width="0.254" layer="21"/>
 </plain>
 <libraries>
 <library name="SPCoast">
@@ -683,4 +682,10 @@ design rules under a new name.</description>
 </signals>
 </board>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
