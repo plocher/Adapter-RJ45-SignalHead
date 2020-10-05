@@ -851,55 +851,55 @@ design rules under a new name.
 </pass>
 </autorouter>
 <elements>
-<element name="CON1X11" library="SPCoast" package="4P-2.0" value="" x="42.545" y="9.525"/>
-<element name="CON2X11" library="SPCoast" package="4P-2.0" value="" x="22.86" y="9.525"/>
-<element name="CON3X11" library="SPCoast" package="1X04_LOCK" value="" x="19.05" y="6.985"/>
-<element name="CON4X11" library="SPCoast" package="1X04_LOCK" value="" x="38.1" y="6.985"/>
-<element name="J1X11" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="33.02" y="40.005" rot="R180"/>
-<element name="R1X11" library="SPCoast" package="CUT-R" value="" x="27.94" y="20.32" rot="R90"/>
-<element name="R2X11" library="SPCoast" package="CUT-R" value="" x="24.13" y="20.32" rot="R90"/>
-<element name="R3X11" library="SPCoast" package="CUT-R" value="" x="20.32" y="20.32" rot="R90"/>
-<element name="R4X11" library="SPCoast" package="CUT-R" value="" x="43.18" y="20.32" rot="R90"/>
-<element name="R5X11" library="SPCoast" package="CUT-R" value="" x="39.37" y="20.32" rot="R90"/>
-<element name="R6X11" library="SPCoast" package="CUT-R" value="" x="35.56" y="20.32" rot="R90"/>
+<element name="CON1X11" library="SPCoast" package="4P-2.0" value="2mm" x="42.545" y="9.525"/>
+<element name="CON2X11" library="SPCoast" package="4P-2.0" value="2mm" x="22.86" y="9.525"/>
+<element name="CON3X11" library="SPCoast" package="1X04_LOCK" value="0.100" x="19.05" y="6.985"/>
+<element name="CON4X11" library="SPCoast" package="1X04_LOCK" value="0.100" x="38.1" y="6.985"/>
+<element name="J1X11" library="SPCoast" package="RJ45-NO-SHIELD" value="RJ12/6" x="33.02" y="40.005" rot="R180"/>
+<element name="R1X11" library="SPCoast" package="CUT-R" value="0R" x="27.94" y="20.32" rot="R90"/>
+<element name="R2X11" library="SPCoast" package="CUT-R" value="0R" x="24.13" y="20.32" rot="R90"/>
+<element name="R3X11" library="SPCoast" package="CUT-R" value="0R" x="20.32" y="20.32" rot="R90"/>
+<element name="R4X11" library="SPCoast" package="CUT-R" value="0R" x="43.18" y="20.32" rot="R90"/>
+<element name="R5X11" library="SPCoast" package="CUT-R" value="0R" x="39.37" y="20.32" rot="R90"/>
+<element name="R6X11" library="SPCoast" package="CUT-R" value="0R" x="35.56" y="20.32" rot="R90"/>
 <element name="U$1X11" library="SPCoast" package="OSHW-LOGO-M" value="DOC-OSHW-LOGO-M" x="33.02" y="41.91"/>
-<element name="CON1X12" library="SPCoast" package="4P-2.0" value="" x="42.545" y="55.245"/>
-<element name="CON2X12" library="SPCoast" package="4P-2.0" value="" x="22.86" y="55.245"/>
-<element name="CON3X12" library="SPCoast" package="1X04_LOCK" value="" x="19.05" y="52.705"/>
-<element name="CON4X12" library="SPCoast" package="1X04_LOCK" value="" x="38.1" y="52.705"/>
-<element name="J1X12" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="33.02" y="85.725" rot="R180"/>
-<element name="R1X12" library="SPCoast" package="CUT-R" value="" x="27.94" y="66.04" rot="R90"/>
-<element name="R2X12" library="SPCoast" package="CUT-R" value="" x="24.13" y="66.04" rot="R90"/>
-<element name="R3X12" library="SPCoast" package="CUT-R" value="" x="20.32" y="66.04" rot="R90"/>
-<element name="R4X12" library="SPCoast" package="CUT-R" value="" x="43.18" y="66.04" rot="R90"/>
-<element name="R5X12" library="SPCoast" package="CUT-R" value="" x="39.37" y="66.04" rot="R90"/>
-<element name="R6X12" library="SPCoast" package="CUT-R" value="" x="35.56" y="66.04" rot="R90"/>
+<element name="CON1X12" library="SPCoast" package="4P-2.0" value="2mm" x="42.545" y="55.245"/>
+<element name="CON2X12" library="SPCoast" package="4P-2.0" value="2mm" x="22.86" y="55.245"/>
+<element name="CON3X12" library="SPCoast" package="1X04_LOCK" value="0.100" x="19.05" y="52.705"/>
+<element name="CON4X12" library="SPCoast" package="1X04_LOCK" value="0.100" x="38.1" y="52.705"/>
+<element name="J1X12" library="SPCoast" package="RJ45-NO-SHIELD" value="RJ12/6" x="33.02" y="85.725" rot="R180"/>
+<element name="R1X12" library="SPCoast" package="CUT-R" value="0R" x="27.94" y="66.04" rot="R90"/>
+<element name="R2X12" library="SPCoast" package="CUT-R" value="0R" x="24.13" y="66.04" rot="R90"/>
+<element name="R3X12" library="SPCoast" package="CUT-R" value="0R" x="20.32" y="66.04" rot="R90"/>
+<element name="R4X12" library="SPCoast" package="CUT-R" value="0R" x="43.18" y="66.04" rot="R90"/>
+<element name="R5X12" library="SPCoast" package="CUT-R" value="0R" x="39.37" y="66.04" rot="R90"/>
+<element name="R6X12" library="SPCoast" package="CUT-R" value="0R" x="35.56" y="66.04" rot="R90"/>
 <element name="U$1X12" library="SPCoast" package="OSHW-LOGO-M" value="DOC-OSHW-LOGO-M" x="33.02" y="87.63"/>
-<element name="CON1X21" library="SPCoast" package="4P-2.0" value="" x="75.565" y="9.525"/>
-<element name="CON2X21" library="SPCoast" package="4P-2.0" value="" x="55.88" y="9.525"/>
-<element name="CON3X21" library="SPCoast" package="1X04_LOCK" value="" x="52.07" y="6.985"/>
-<element name="CON4X21" library="SPCoast" package="1X04_LOCK" value="" x="71.12" y="6.985"/>
-<element name="J1X21" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="66.04" y="40.005" rot="R180"/>
-<element name="R1X21" library="SPCoast" package="CUT-R" value="" x="60.96" y="20.32" rot="R90"/>
-<element name="R2X21" library="SPCoast" package="CUT-R" value="" x="57.15" y="20.32" rot="R90"/>
-<element name="R3X21" library="SPCoast" package="CUT-R" value="" x="53.34" y="20.32" rot="R90"/>
-<element name="R4X21" library="SPCoast" package="CUT-R" value="" x="76.2" y="20.32" rot="R90"/>
-<element name="R5X21" library="SPCoast" package="CUT-R" value="" x="72.39" y="20.32" rot="R90"/>
-<element name="R6X21" library="SPCoast" package="CUT-R" value="" x="68.58" y="20.32" rot="R90"/>
+<element name="CON1X21" library="SPCoast" package="4P-2.0" value="2mm" x="75.565" y="9.525"/>
+<element name="CON2X21" library="SPCoast" package="4P-2.0" value="2mm" x="55.88" y="9.525"/>
+<element name="CON3X21" library="SPCoast" package="1X04_LOCK" value="0.100" x="52.07" y="6.985"/>
+<element name="CON4X21" library="SPCoast" package="1X04_LOCK" value="0.100" x="71.12" y="6.985"/>
+<element name="J1X21" library="SPCoast" package="RJ45-NO-SHIELD" value="RJ12/6" x="66.04" y="40.005" rot="R180"/>
+<element name="R1X21" library="SPCoast" package="CUT-R" value="0R" x="60.96" y="20.32" rot="R90"/>
+<element name="R2X21" library="SPCoast" package="CUT-R" value="0R" x="57.15" y="20.32" rot="R90"/>
+<element name="R3X21" library="SPCoast" package="CUT-R" value="0R" x="53.34" y="20.32" rot="R90"/>
+<element name="R4X21" library="SPCoast" package="CUT-R" value="0R" x="76.2" y="20.32" rot="R90"/>
+<element name="R5X21" library="SPCoast" package="CUT-R" value="0R" x="72.39" y="20.32" rot="R90"/>
+<element name="R6X21" library="SPCoast" package="CUT-R" value="0R" x="68.58" y="20.32" rot="R90"/>
 <element name="U$1X21" library="SPCoast" package="OSHW-LOGO-M" value="DOC-OSHW-LOGO-M" x="66.04" y="41.91"/>
-<element name="CON1X22" library="SPCoast" package="4P-2.0" value="" x="75.565" y="55.245"/>
-<element name="CON2X22" library="SPCoast" package="4P-2.0" value="" x="55.88" y="55.245"/>
-<element name="CON3X22" library="SPCoast" package="1X04_LOCK" value="" x="52.07" y="52.705"/>
-<element name="CON4X22" library="SPCoast" package="1X04_LOCK" value="" x="71.12" y="52.705"/>
-<element name="J1X22" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="66.04" y="85.725" rot="R180"/>
-<element name="R1X22" library="SPCoast" package="CUT-R" value="" x="60.96" y="66.04" rot="R90"/>
-<element name="R2X22" library="SPCoast" package="CUT-R" value="" x="57.15" y="66.04" rot="R90"/>
-<element name="R3X22" library="SPCoast" package="CUT-R" value="" x="53.34" y="66.04" rot="R90"/>
-<element name="R4X22" library="SPCoast" package="CUT-R" value="" x="76.2" y="66.04" rot="R90"/>
-<element name="R5X22" library="SPCoast" package="CUT-R" value="" x="72.39" y="66.04" rot="R90"/>
-<element name="R6X22" library="SPCoast" package="CUT-R" value="" x="68.58" y="66.04" rot="R90"/>
+<element name="CON1X22" library="SPCoast" package="4P-2.0" value="2mm" x="75.565" y="55.245"/>
+<element name="CON2X22" library="SPCoast" package="4P-2.0" value="2mm" x="55.88" y="55.245"/>
+<element name="CON3X22" library="SPCoast" package="1X04_LOCK" value="0.100" x="52.07" y="52.705"/>
+<element name="CON4X22" library="SPCoast" package="1X04_LOCK" value="0.100" x="71.12" y="52.705"/>
+<element name="J1X22" library="SPCoast" package="RJ45-NO-SHIELD" value="RJ12/6" x="66.04" y="85.725" rot="R180"/>
+<element name="R1X22" library="SPCoast" package="CUT-R" value="0R" x="60.96" y="66.04" rot="R90"/>
+<element name="R2X22" library="SPCoast" package="CUT-R" value="0R" x="57.15" y="66.04" rot="R90"/>
+<element name="R3X22" library="SPCoast" package="CUT-R" value="0R" x="53.34" y="66.04" rot="R90"/>
+<element name="R4X22" library="SPCoast" package="CUT-R" value="0R" x="76.2" y="66.04" rot="R90"/>
+<element name="R5X22" library="SPCoast" package="CUT-R" value="0R" x="72.39" y="66.04" rot="R90"/>
+<element name="R6X22" library="SPCoast" package="CUT-R" value="0R" x="68.58" y="66.04" rot="R90"/>
 <element name="U$1X22" library="SPCoast" package="OSHW-LOGO-M" value="DOC-OSHW-LOGO-M" x="66.04" y="87.63"/>
-<element name="U$1X1" library="SPCoast" package="BOARD-SEEED10X10-NOHOLES" value="" x="0" y="0"/>
+<element name="U$1X1" library="SPCoast" package="BOARD-SEEED10X10-NOHOLES" value="10x10" x="0" y="0"/>
 </elements>
 <signals>
 <signal name="A-COMMONX11">
