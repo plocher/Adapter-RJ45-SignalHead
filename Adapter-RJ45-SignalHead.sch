@@ -5198,16 +5198,16 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 </classes>
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
-<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M"/>
+<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M" value="OSHW"/>
 <part name="CON1" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
 <part name="CON2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
-<part name="R1" library="SPCoast" deviceset="R*" device="PTH-R0" value="0R"/>
-<part name="R2" library="SPCoast" deviceset="R*" device="PTH-R0" value="0R"/>
-<part name="R3" library="SPCoast" deviceset="R*" device="PTH-R0" value="0R"/>
-<part name="R4" library="SPCoast" deviceset="R*" device="PTH-R0" value="0R"/>
-<part name="R5" library="SPCoast" deviceset="R*" device="PTH-R0" value="0R"/>
-<part name="R6" library="SPCoast" deviceset="R*" device="PTH-R0" value="0R"/>
-<part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="RJ12/6"/>
+<part name="R1" library="SPCoast" deviceset="R*" device="PTH-R0" value="nostuff"/>
+<part name="R2" library="SPCoast" deviceset="R*" device="PTH-R0" value="nostuff"/>
+<part name="R3" library="SPCoast" deviceset="R*" device="PTH-R0" value="nostuff"/>
+<part name="R4" library="SPCoast" deviceset="R*" device="PTH-R0" value="nostuff"/>
+<part name="R5" library="SPCoast" deviceset="R*" device="PTH-R0" value="nostuff"/>
+<part name="R6" library="SPCoast" deviceset="R*" device="PTH-R0" value="nostuff"/>
+<part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="RJ45"/>
 <part name="CON3" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
 <part name="CON4" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
 </parts>
